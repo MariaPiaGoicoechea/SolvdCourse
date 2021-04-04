@@ -31,3 +31,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
+# Idea
+.idea/
+idea/
+
